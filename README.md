@@ -15,8 +15,9 @@ This is achieved by:
 - Java 17 or higher
 - Apache Maven
 
-# ▶How to Run
+# ▶How to Run the main method
 The `pom.xml` file is configured with the `exec-maven-plugin`.
+Run the main method with mvn exec:java.
 
 # License
 This project is licensed under the MIT License.
