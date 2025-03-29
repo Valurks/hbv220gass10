@@ -26,7 +26,7 @@ It includes contributions by Adam and Valur, and Helmut Neukirchen, the original
 [Link to the license](LICENSE)
 
 # Documentation
-You can view an UML diagram [here](src/site/markdown/UML%20class.png)
+You can view an UML diagram [here](src/site/markdown/documentation.md)
 
 You can generate full documentation including Javadoc and license details by running:
 
