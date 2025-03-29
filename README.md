@@ -23,8 +23,7 @@ Run the main method with mvn exec:java.
 This project is licensed under the MIT License.
 It includes contributions by Adam and Valur, and Helmut Neukirchen, the original author of the template repository.
 
-Link to the license:
-file:///Users/adamkrystian/Documents/School%20Projects/JavaFX%202025/Assignment10/target/site/licenses.html
+[Link to the license](LICENSE)
 
 # Documentation
 You can generate full documentation including Javadoc and license details by running:
